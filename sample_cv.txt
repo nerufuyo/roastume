@@ -1,0 +1,20 @@
+Sample CV Content
+
+John Doe
+Software Engineer
+Email: john@example.com
+Phone: +1234567890
+
+EXPERIENCE:
+- Software Developer at Tech Corp (2020-2023)
+- Junior Developer at StartUp Inc (2018-2020)
+
+SKILLS:
+- Python, JavaScript, React
+- Machine Learning, AI
+- Database Management
+
+EDUCATION:
+- Bachelor of Computer Science
+- University of Technology (2014-2018)
+
